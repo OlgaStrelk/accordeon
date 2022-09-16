@@ -74,6 +74,7 @@
 @import url('../blocks/price/__column/_for/price__column_for_not-included.css');
 @import url('../blocks/section-title/section-title.css');
 @import url('../blocks/section-title/_type/section-title_type_courses.css');
+@import url('../blocks/section-title/_type/section-title_type_questions.css');
 @import url('../blocks/section-subtitle/section-subtitle.css');
 @import url('../blocks/about/about.css');
 @import url('../blocks/about/__container/about__container.css');
@@ -109,3 +110,12 @@
 @import url('../blocks/principles/__pic/_triangle/principles__pic_triangle.css');
 @import url('../blocks/principles/__heading/principles__heading.css');
 @import url('../blocks/principles/__pic/_oval/principles__pic_oval.css');
+
+@import url('../blocks/frequent-questions/frequent-questions.css');
+@import url('../blocks/frequent-questions/__wrapper/frequent-questions__wrapper.css');
+@import url('../blocks/frequent-questions/__accordeon/frequent-questions__accordeon.css');
+@import url('../blocks/frequent-questions/__accordeon-item/frequent-questions__accordeon-item.css');
+@import url('../blocks/frequent-questions/__accordeon-item/_type_velvet/frequent-questions__accordeon-item_type_velvet.css');
+@import url('../blocks/frequent-questions/__accordeon-item/__content/frequent-questions__accordeon-item__content.css');
+@import url('../blocks/frequent-questions/__accordeon-item/__trigger/frequent-questions__accordeon-item__trigger.css');
+@import url('../blocks/frequent-questions/__accordeon-item/__input/frequent-questions__accordeon-item__input.css');
