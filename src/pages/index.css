@@ -115,7 +115,8 @@
 @import url('../blocks/frequent-questions/__wrapper/frequent-questions__wrapper.css');
 @import url('../blocks/frequent-questions/__accordeon/frequent-questions__accordeon.css');
 @import url('../blocks/frequent-questions/__accordeon-item/frequent-questions__accordeon-item.css');
+@import url('../blocks/frequent-questions/__accordeon-item/_active/frequent-questions__accordeon-item_active.css');
 @import url('../blocks/frequent-questions/__accordeon-item/_type_velvet/frequent-questions__accordeon-item_type_velvet.css');
 @import url('../blocks/frequent-questions/__accordeon-item/__content/frequent-questions__accordeon-item__content.css');
 @import url('../blocks/frequent-questions/__accordeon-item/__trigger/frequent-questions__accordeon-item__trigger.css');
-@import url('../blocks/frequent-questions/__accordeon-item/__input/frequent-questions__accordeon-item__input.css');
+@import url('../blocks/frequent-questions/__accordeon-item/__button/frequent-question__accordeon-item__button.css');
