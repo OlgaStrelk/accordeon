@@ -110,13 +110,12 @@
 @import url('../blocks/principles/__pic/_triangle/principles__pic_triangle.css');
 @import url('../blocks/principles/__heading/principles__heading.css');
 @import url('../blocks/principles/__pic/_oval/principles__pic_oval.css');
-
 @import url('../blocks/frequent-questions/frequent-questions.css');
 @import url('../blocks/frequent-questions/__wrapper/frequent-questions__wrapper.css');
 @import url('../blocks/frequent-questions/__accordeon/frequent-questions__accordeon.css');
-@import url('../blocks/frequent-questions/__accordeon-item/frequent-questions__accordeon-item.css');
-@import url('../blocks/frequent-questions/__accordeon-item/_active/frequent-questions__accordeon-item_active.css');
-@import url('../blocks/frequent-questions/__accordeon-item/_type_velvet/frequent-questions__accordeon-item_type_velvet.css');
-@import url('../blocks/frequent-questions/__accordeon-item/__content/frequent-questions__accordeon-item__content.css');
-@import url('../blocks/frequent-questions/__accordeon-item/__trigger/frequent-questions__accordeon-item__trigger.css');
-@import url('../blocks/frequent-questions/__accordeon-item/__button/frequent-question__accordeon-item__button.css');
+@import url('../blocks/accordeon-item/accordeon-item.css');
+@import url('../blocks/accordeon-item/_active/accordeon-item_active.css');
+@import url('../blocks/accordeon-item/_type_velvet/accordeon-item_type_velvet.css');
+@import url('../blocks/accordeon-item/__content/accordeon-item__content.css');
+@import url('../blocks/accordeon-item/__trigger/accordeon-item__trigger.css');
+@import url('../blocks/accordeon-item/__button/accordeon-item__button.css');

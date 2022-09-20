@@ -1,0 +1,7 @@
+.accordeon-item_active .accordeon-item__content {
+    display: block;
+}
+
+.accordeon-item_active .accordeon-item__trigger {
+
+}
