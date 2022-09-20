@@ -5,6 +5,8 @@ import { PopupWithBurger } from "../components/PopupWithBurger.js";
 import { checkScreenWidth } from "../components/headerState.js";
 import { Tween } from "../components/tween.js";
 import { scrollToAnchor } from "../utils.js/anchorLinkScroll.js";
+import '../components/FAQ';
+
 
 const cards = document.querySelectorAll(".course-card");
 
